@@ -1,4 +1,4 @@
 # BCC
 Brice's Crypto Compendium
 
-### [EVERYTHING IS IN THE WIKI](https://github.com/Ahirice/BCC/wiki/Home-(ENGLISH))
+### [EVERYTHING IS IN THE WIKI](https://github.com/Ahirice/BCC/wiki/Home)
